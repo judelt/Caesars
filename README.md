@@ -21,3 +21,18 @@ Worked on building the back end with Express, creating all the routes, and on th
 4. Visit `http://localhost:8080/`
 5. To log in as a customer user, username: Judit. To log as restaurant user: Sori.
 
+## Dependencies
+
+- Node 10.x or above
+- NPM 5.x or above
+- PG 6.x
+- pg-native
+- Body-parser
+- Chalk
+- Cookie-session
+- Dotenv
+- Ejs
+- Express
+- Morgan
+- Node-sass-middleware
+- Twilio
